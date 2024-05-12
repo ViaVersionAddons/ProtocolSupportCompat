@@ -1,0 +1,6 @@
+name: VVPSCompat
+main: com.viaversion.pscompat.PSCompatPlugin
+authors: [ _MylesC, kennytv ]
+version: 1.0.0
+api-version: 1.13
+depend: [ ViaVersion, ProtocolSupport ]
